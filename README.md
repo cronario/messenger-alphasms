@@ -4,7 +4,7 @@ This package provides packagist access to [php api](https://alphasms.ua/storage/
 
 ## Usage
 
-```
+```php
 <?php
 
 require_once('./vendor/autoload.php');
